@@ -1,2 +1,4 @@
 # Morse-Code
-Encode or Decode the message
+  Encode or Decode the message
+##Requirement
+  Python3
