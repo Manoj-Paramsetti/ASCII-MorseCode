@@ -4,5 +4,5 @@
   Python3  
   Works in Linux, Windows and Mac  
   Colorama Library (pip install colorama)
-## Authur
+## Author
     Manoj Paramsetti
